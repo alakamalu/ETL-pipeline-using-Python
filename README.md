@@ -26,3 +26,13 @@ A clean and structured database table ready for analysis.
 - Practical understanding of ETL pipelines
 - Importance of data quality checks
 - Hands-on experience with pandas and SQLite
+
+basic-etl-python/
+│
+├── data/
+│   └── ecommerce_data.csv
+│
+├── notebooks/
+│   └── etl_pipeline.ipynb
+│
+├── README.md
